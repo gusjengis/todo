@@ -2,3 +2,5 @@ create sync command
 spreadsheets in nvim?
 make cursor dissapear when it's not moving
 put mason/lsp/formatting stuff in it's own file in nvim config
+make transitions between workspaces instant
+learn about certs and ssl and https, I'm tired of being intimidated by this stuff
