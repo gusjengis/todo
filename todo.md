@@ -8,8 +8,15 @@ lock screen
 figure out how to make laptop still work after lid has been closed
 fix hdr on hyprland, start with custom shader
 learn about certs and ssl and https, I'm tired of being intimidated by this stuff
-get snitch to send an http request
-add active window data type to model
+<!-- get snitch to send an http request --> 
+<!-- add active window data type to model -->
 figure out how to use binary data formats in http requests
 add table for window data to database
 show/hide waybar
+figure out the secret keys situation
+fix serialization and deserialization so that strings are properly escaped, don't want typed commas to break my deserialization
+apply new data model to server
+apply new data model to mobile app
+apply new data model to hub
+get git_status preview merged
+
